@@ -84,6 +84,8 @@ To maintain a balance between **Bias and Variance**, I implemented the following
 
 ----
 👨‍💻 Author
-Shivi Srivastava Aspiring AI Engineer | Amity University Uttar Pradesh
-[LinkedIn Profile] (https://www.linkedin.com/in/shivi-srivastava-8a5086310/)| [GitHub Portfolio] (https://github.com/shivisrivastava0212)
+Shivi Srivastava Aspiring AI Engineer 
+Amity University Uttar Pradesh
+[LinkedIn Profile] (https://www.linkedin.com/in/shivi-srivastava-8a5086310/)
+[GitHub Portfolio] (https://github.com/shivisrivastava0212)
 
